@@ -1,6 +1,5 @@
 C:\Users\Mcally\Desktop\C#\WebApiResfull\Mcally.WebApiResfull.Host\ModelService\bin\Debug\ModelService.dll
 C:\Users\Mcally\Desktop\C#\WebApiResfull\Mcally.WebApiResfull.Host\ModelService\bin\Debug\ModelService.pdb
-C:\Users\Mcally\Desktop\C#\WebApiResfull\Mcally.WebApiResfull.Host\ModelService\obj\Debug\ModelService.csprojAssemblyReference.cache
 C:\Users\Mcally\Desktop\C#\WebApiResfull\Mcally.WebApiResfull.Host\ModelService\obj\Debug\ModelService.csproj.CoreCompileInputs.cache
 C:\Users\Mcally\Desktop\C#\WebApiResfull\Mcally.WebApiResfull.Host\ModelService\obj\Debug\ModelService.dll
 C:\Users\Mcally\Desktop\C#\WebApiResfull\Mcally.WebApiResfull.Host\ModelService\obj\Debug\ModelService.pdb

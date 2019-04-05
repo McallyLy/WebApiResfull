@@ -1,6 +1,5 @@
 C:\Users\Mcally\Desktop\C#\WebApiResfull\Mcally.WebApiResfull.Host\Common\bin\Debug\Common.dll
 C:\Users\Mcally\Desktop\C#\WebApiResfull\Mcally.WebApiResfull.Host\Common\bin\Debug\Common.pdb
-C:\Users\Mcally\Desktop\C#\WebApiResfull\Mcally.WebApiResfull.Host\Common\obj\Debug\Common.csprojAssemblyReference.cache
 C:\Users\Mcally\Desktop\C#\WebApiResfull\Mcally.WebApiResfull.Host\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 C:\Users\Mcally\Desktop\C#\WebApiResfull\Mcally.WebApiResfull.Host\Common\obj\Debug\Common.dll
 C:\Users\Mcally\Desktop\C#\WebApiResfull\Mcally.WebApiResfull.Host\Common\obj\Debug\Common.pdb

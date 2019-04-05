@@ -18,3 +18,5 @@ C:\Users\Mcally\Desktop\C#\WebApiResfull\Mcally.WebApiResfull.Host\Service\obj\D
 C:\Users\Mcally\Desktop\C#\WebApiResfull\Mcally.WebApiResfull.Host\Service\obj\Debug\Service.csproj.CopyComplete
 C:\Users\Mcally\Desktop\C#\WebApiResfull\Mcally.WebApiResfull.Host\Service\obj\Debug\Service.dll
 C:\Users\Mcally\Desktop\C#\WebApiResfull\Mcally.WebApiResfull.Host\Service\obj\Debug\Service.pdb
+C:\Users\Mcally\Desktop\C#\WebApiResfull\Mcally.WebApiResfull.Host\Service\bin\Debug\Common.dll
+C:\Users\Mcally\Desktop\C#\WebApiResfull\Mcally.WebApiResfull.Host\Service\bin\Debug\Common.pdb

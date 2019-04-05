@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BaseJson.cs" />
-    <Compile Include="Class1.cs" />
+    <Compile Include="SAEncrypt.cs" />
     <Compile Include="DataLogerService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SQLHelper.cs" />

@@ -1,6 +1,9 @@
 C:\Users\Mcally\Desktop\C#\WebApiResfull\Mcally.WebApiResfull.Host\Model\bin\Debug\Model.dll
 C:\Users\Mcally\Desktop\C#\WebApiResfull\Mcally.WebApiResfull.Host\Model\bin\Debug\Model.pdb
-C:\Users\Mcally\Desktop\C#\WebApiResfull\Mcally.WebApiResfull.Host\Model\obj\Debug\Model.csprojAssemblyReference.cache
 C:\Users\Mcally\Desktop\C#\WebApiResfull\Mcally.WebApiResfull.Host\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
 C:\Users\Mcally\Desktop\C#\WebApiResfull\Mcally.WebApiResfull.Host\Model\obj\Debug\Model.dll
 C:\Users\Mcally\Desktop\C#\WebApiResfull\Mcally.WebApiResfull.Host\Model\obj\Debug\Model.pdb
+C:\Users\Mcally\Desktop\C#\WebApiResfull\Mcally.WebApiResfull.Host\Model\bin\Debug\Common.dll
+C:\Users\Mcally\Desktop\C#\WebApiResfull\Mcally.WebApiResfull.Host\Model\bin\Debug\Common.pdb
+C:\Users\Mcally\Desktop\C#\WebApiResfull\Mcally.WebApiResfull.Host\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Mcally\Desktop\C#\WebApiResfull\Mcally.WebApiResfull.Host\Model\obj\Debug\Model.csproj.CopyComplete
